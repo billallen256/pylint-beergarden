@@ -10,7 +10,7 @@ with open(path.join(this_directory, 'README.md'), 'r') as f:
 
 setup(
     name='pylint-beergarden',
-    version='0.1.0',
+    version='0.1.1',
     author='Bill Allen',
     author_email='photo.allen@gmail.com',
     description='A pylint plugin for the Beergarden framework.',

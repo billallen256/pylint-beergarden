@@ -64,7 +64,7 @@ class BeergardenCommandChecker(BaseChecker):
     priority = -1
     msgs = {
         'E5501': (
-            'Parameter decorator key doe snot match function parameter names',
+            'Parameter decorator key does not match function parameter name',
             'decorator-key-parameter-name-mismatch',
             'Parameter decorator keys must match function parameter names.'
         ),
